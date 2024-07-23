@@ -163,7 +163,7 @@
 
         // Function to redirect to Pie Chart view page
         function viewPieChart() {
-            window.location.href = "PieChart.jsp"; // Replace with actual path to PieChart.jsp
+            window.location.href = "pieChart.jsp"; // Replace with actual path to PieChart.jsp
         }
     </script>
 </body>
