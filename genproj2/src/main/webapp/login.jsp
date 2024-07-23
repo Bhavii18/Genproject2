@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #FFAFBD, #ffc3a0);
+            background: linear-gradient(135deg, #E6E6FA, #ffc3a0);
             display: flex;
             justify-content: center;
             
